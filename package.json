@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "messenger-node": "^0.3.2",
+    "typescript": "^3.7.5"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.0",
+    "ts-node": "^8.6.2"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  }
+}
